@@ -151,7 +151,7 @@ jupyter notebook linkedin_jobs_eda.ipynb
 **Aryansingh Bais**  
 Aspiring Data Scientist | Python | Pandas | EDA | Power BI
 
-🔗 [LinkedIn](www.linkedin.com/in/aryansinghbais8) | 🐙 [GitHub](https://github.com/Aryansingh-B/LinkedIn-Jobs-EDA)
+🔗 [LinkedIn](https://www.linkedin.com/in/aryansinghbais8) | 🐙 [GitHub](https://github.com/Aryansingh-B/LinkedIn-Jobs-EDA)
 
 ---
 
